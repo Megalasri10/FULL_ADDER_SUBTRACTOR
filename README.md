@@ -1,5 +1,3 @@
-<img width="1913" height="478" alt="Screenshot 2025-11-18 175603" src="https://github.com/user-attachments/assets/43c54e70-51c1-4809-b37f-2edebe77eb46" /># FULL_ADDER_SUBTRACTOR
-
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
 **AIM:**
